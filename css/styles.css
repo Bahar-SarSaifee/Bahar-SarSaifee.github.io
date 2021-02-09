@@ -26,7 +26,7 @@ header ul{display:inline-block;background:#fff;text-align:center;padding-left:0p
 header li{display:inline-block}
 header a{display:block;color:#15202B;padding:7px 12px;font-weight: bold;}
 header a:hover{color:#15202B;text-decoration:none;border-radius:4px;background-color: #e4e4ea;}
-header a:focus{color:#15202B;text-decoration:none}
+header a:focus{color:#15202f;text-decoration:none}
 header.active{display:block}
 header.sticky{position:fixed;z-index:999}
 #menu.active{display:block}
@@ -143,4 +143,3 @@ footer{text-align:center;padding-bottom: 40px;padding-top: 10px}
 #lead-content h2{font-size:1em}
 #lead-content a{font-size:0.9em;padding:5px 10px}
 }
-#footer-row {display: flex;}
