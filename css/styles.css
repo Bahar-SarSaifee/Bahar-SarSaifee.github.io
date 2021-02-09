@@ -92,7 +92,7 @@ footer{text-align:center;padding-bottom: 40px;padding-top: 10px}
 .education-block ul{padding:0 0 0 15px}
 #projects{padding:50px 15px;border-bottom:1px solid #dcd9d9;text-align:center}
 #projects h2{color:#374054;margin-bottom:50px}
-.project{position:relative;max-width:900px;margin:0 auto 30px auto;overflow:hidden;background:#fff;border-radius:4px;text-align: left;padding: 0 10px;border-left: 6px solid #15202B;}
+.project{position:relative;max-width:800px;margin:0 auto 30px auto;overflow:hidden;background:#fff;border-radius:4px;text-align: left;padding: 0 10px;border-left: 6px solid #15202B;}
 .project-image{float:left}
 .project-info{position:absolute;top:50%;transform:translateY(-50%);margin-left:300px;padding:15px}
 .project-info h3{font-size:1.5em;font-weight:300;color:#374054;margin:0 0 15px 0}
@@ -138,9 +138,9 @@ footer{text-align:center;padding-bottom: 40px;padding-top: 10px}
 .project-info{position:relative;margin:0;padding:30px 15px;top:auto;transform:none}
 .social{text-align:center}
 }
-@media only screen and (max-width: 480px){#lead-content h1{font-size:1.5em}
+@media only screen and (max-width: 480px){
+#lead-content h1{font-size:1.5em}
 #lead-content h2{font-size:1em}
 #lead-content a{font-size:0.9em;padding:5px 10px}
 }
-.row {display: flex;}
-.column {flex: 50%;}        
+#footer-row {display: flex;}
