@@ -58,7 +58,7 @@ footer{text-align:center;padding-bottom: 40px;padding-top: 10px}
 #lead-content h1,#lead-content h2{margin:0}
 #lead-content h1{color:#fff;font-weight:500;font-size:4.5em;text-transform:capitalize;letter-spacing:0.01em;line-height:1.3em}
 #lead-content h2{color:rgba(255, 255, 255, 0.704);font-weight:500;font-size:1.7em}
-#lead-overlay{position:absolute;height:100%;width:100%;top:0;right:0;bottom:0;left:0;background:#15202B;z-index:1}
+#lead-overlay{position:absolute;height:100%;width:100%;top:0;right:0;bottom:0;left:0;background:#8B0000;z-index:1}
 #lead-down{position:absolute;left:0;right:0;width:100%;text-align:center;z-index:10;bottom:25px;color:#fff}
 #lead-down i{cursor:pointer;animation:pulsate 2s ease;animation-iteration-count:infinite;padding-top:7.5px;padding-left:1.6px}
 @keyframes pulsate{0%{transform:scale(1, 1)}
