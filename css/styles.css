@@ -30,8 +30,8 @@ header a:focus{color:#15202f;text-decoration:none}
 header.active{display:block}
 header.sticky{position:fixed;z-index:999}
 #menu.active{display:block}
-#mobile-menu-open{display:none;cursor:pointer;position:fixed;right:15px;top:10px;color:#15202B;font-size:1.5em;z-index:20;padding:0 7px;border-radius:4px;background:#fff}
-#mobile-menu-close{display:none;text-align:right;width:100%;background:#fff;font-size:1.5em;padding-right:15px;padding-top:10px;cursor:pointer;color:#15202B}
+#mobile-menu-open{display:none;cursor:pointer;position:fixed;right:15px;top:10px;color:#008080;font-size:1.5em;z-index:20;padding:0 7px;border-radius:4px;background:#fff}
+#mobile-menu-close{display:none;text-align:right;width:100%;background:#fff;font-size:1.5em;padding-right:15px;padding-top:10px;cursor:pointer;color:#008080}
 #mobile-menu-close span{font-size:0.5em;text-transform:uppercase}
 #mobile-menu-close i{vertical-align:middle}
 footer{text-align:center;padding-bottom: 40px;padding-top: 10px}
