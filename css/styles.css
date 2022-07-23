@@ -92,7 +92,7 @@ footer{text-align:center;padding-bottom: 40px;padding-top: 10px}
 .education-block ul{padding:0 0 0 15px}
 #projects{padding:50px 15px;border-bottom:1px solid #dcd9d9;text-align:center}
 #projects h2{color:#004080;margin-bottom:50px}
-.project{position:relative;max-width:800px;margin:0 auto 30px auto;overflow:hidden;background:#fff;border-radius:4px;text-align: left;padding: 0 10px;border-left: 6px solid #008080;}
+.project{position:relative;max-width:800px;margin:0 auto 30px auto;overflow:hidden;background:#fff;border-radius:4px;text-align: left;padding: 0 10px;border-left: 6px solid #004080;}
 .project-image{float:left}
 .project-info{position:absolute;top:50%;transform:translateY(-50%);margin-left:300px;padding:15px}
 .project-info h3{font-size:1.5em;font-weight:300;color:#374054;margin:0 0 15px 0}
