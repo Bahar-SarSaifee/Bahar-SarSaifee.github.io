@@ -31,7 +31,7 @@ header.active{display:block}
 header.sticky{position:fixed;z-index:999}
 #menu.active{display:block}
 #mobile-menu-open{display:none;cursor:pointer;position:fixed;right:15px;top:10px;color:#004080;font-size:1.5em;z-index:20;padding:0 7px;border-radius:4px;background:#fff}
-#mobile-menu-close{display:none;text-align:right;width:100%;background:#fff;font-size:1.5em;padding-right:15px;padding-top:10px;cursor:pointer;color:#008080}
+#mobile-menu-close{display:none;text-align:right;width:100%;background:#fff;font-size:1.5em;padding-right:15px;padding-top:10px;cursor:pointer;color:#004080}
 #mobile-menu-close span{font-size:0.5em;text-transform:uppercase}
 #mobile-menu-close i{vertical-align:middle}
 footer{text-align:center;padding-bottom: 40px;padding-top: 10px}
@@ -73,7 +73,7 @@ footer{text-align:center;padding-bottom: 40px;padding-top: 10px}
 #experience ul{color: #74808a; margin-top: 5px;}
 #experience-timeline{margin:30px auto 0 auto;position:relative;max-width:1000px}
 #experience-timeline:before{position:absolute;content:'';top:0;bottom:0;left:303px;right:auto;height:100%;width:3px;background:#004080;z-index:0}
-#experience-timeline:after{position:absolute;content:'';width:3px;height:40px;background:#004080;background:linear-gradient(to bottom, #008080, rgba(52,152,219,0));top:100%;left:303px}
+#experience-timeline:after{position:absolute;content:'';width:3px;height:40px;background:#004080;background:linear-gradient(to bottom, #004080, rgba(52,152,219,0));top:100%;left:303px}
 .vtimeline-content{margin-left:350px;background:#fff;border:1px solid #e6e6e6;padding:15px;border-radius:3px;text-align:left}
 .vtimeline-content h3{font-size:1.5em;font-weight:300;color:#374054;display:inline-block;margin:0}
 .vtimeline-content h4{font-size:1.2em;font-weight:300;color:#7e8890;margin:0 0 15px 0}
